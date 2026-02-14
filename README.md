@@ -98,3 +98,8 @@ more copies available.
 
 5. Focus on acquiring recent published books rather than older publications to improve sales 
 and align with the current market demand.
+
+******************************************************************************************************
+Dasboard Overview
+<img width="1905" height="810" alt="Dashboard" src="https://github.com/user-attachments/assets/5c68c4b3-521e-4e71-9a97-339cdbeaa7e6" />
+
