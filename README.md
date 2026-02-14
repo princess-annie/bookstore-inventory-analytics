@@ -4,7 +4,6 @@ The goal is to examine book and genre performance to understand sales trends and
 ****************************************************************************
 
 ### DATA SOURCE
-DATA SOURCE
 Dataset Provider: Afriment Internships
 
 Key Columns:
