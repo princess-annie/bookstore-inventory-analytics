@@ -27,18 +27,18 @@ Tool Used: Microsoft Excel
 ### DATA CLEANING PROCESS
 The dataset presented several common data entry challenges that required systematic cleaning:
 1. Initial Import Issues
--Dataset imported as unstructured text
--Manually defined column headers
--Applied Text-to-Columns function to properly structure data into columns
+- Dataset imported as unstructured text
+- Manually defined column headers
+- Applied Text-to-Columns function to properly structure data into columns
 
 2. Data Preparation
--Created duplicate worksheet named "Working Sheet" to preserve original data
--Corrected data entry errors identified during import
+- Created duplicate worksheet named "Working Sheet" to preserve original data
+- Corrected data entry errors identified during import
 
 3. Data Standardization
--Standardized text formats across all fields
--Resolved inconsistent data types
--Verified data integrity (no missing values found)
+- Standardized text formats across all fields
+- Resolved inconsistent data types
+- Verified data integrity (no missing values found)
 
 4. Created calculated Revenue column (Price × Quantity) for sales analysis
 
@@ -53,23 +53,23 @@ The following charts were used to visualize the dataset:
 * Slicers: Enable interactive filtering
 
 1.Books that generated more Revenue?
-Atomic Habits led with $620.00
-Sapiens: A Brief History of Humankind followed with $562.50
+- Atomic Habits led with $620.00
+- Sapiens: A Brief History of Humankind followed with $562.50
 <img width="1875" height="599" alt="Screenshot 2026-02-14 004325" src="https://github.com/user-attachments/assets/6b888212-c183-4b7c-85dd-cd8566185c16" />
 
 
 2. Fiction contributed 19% of total revenue
-Self-Help and Sci-Fi each contributed 13%
+- Self-Help and Sci-Fi each contributed 13%
 <img width="1066" height="601" alt="Screenshot 2026-02-14 004336" src="https://github.com/user-attachments/assets/27ffa522-cc01-4f65-975e-b11dee07e1e5" />
 
 
 3. Sales Trends of Books Over Time?
-Peak publication years: 2018 and 2011
-Revenue shows clear upward trend with recent publications
+- Peak publication years: 2018 and 2011
+- Revenue shows clear upward trend with recent publications
 <img width="1248" height="586" alt="Screenshot 2026-02-14 004405" src="https://github.com/user-attachments/assets/ea3bdc58-80f2-4ecf-9f06-05c73b5ee1d9" />
 
 4. Top-Performing Author
-James Clear generated $820 across all books
+- James Clear generated $820 across all books
 <img width="1262" height="591" alt="Screenshot 2026-02-14 004351" src="https://github.com/user-attachments/assets/06d59834-8b5f-4cf4-ad21-d7e410a9642a" />
 
 INSIGHTS
